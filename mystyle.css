@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	position: center;
+	font-family: Arial;
+	text-align: center;
+}
+
+html {
+	background-color: orange;
+
+}
+
+p {
+	font-family: "Times New Roman";
+	text-align: center;
+}
